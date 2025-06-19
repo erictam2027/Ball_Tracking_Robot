@@ -26,7 +26,7 @@ You should comment out all portions of your portfolio that you have not complete
 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1nbsAwfkYgQ?si=lR9dSLLciGh0H19w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!--<iframe width="560" height="315" src="https://www.youtube.com/embed/1nbsAwfkYgQ?si=lR9dSLLciGh0H19w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>-->
 
 
 <h2>
@@ -50,7 +50,7 @@ I plan on implementing some modifications including different software and hardw
 # Second Milestone
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPZcPDKHvIc?si=g5wwlY8WpTHrsrLC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!--<iframe width="560" height="315" src="https://www.youtube.com/embed/iPZcPDKHvIc?si=g5wwlY8WpTHrsrLC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>-->
 
 
 <h2>
@@ -84,7 +84,7 @@ Considering I'm ahead in my second milestone, in my third milestone, I plan on i
 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jH4JYiuLHz4?si=nz9Xh8DGZ9DOImPa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!--<iframe width="560" height="315" src="https://www.youtube.com/embed/jH4JYiuLHz4?si=nz9Xh8DGZ9DOImPa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>-->
 <h2>
  Summary
 </h2>
@@ -115,7 +115,7 @@ Overall, my first milestone wasn't complicated by still came with some problems.
 # Arduino Starter Project
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OtCNuAs-0rw?si=aCFD5udPqj_NkJ2H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!--<iframe width="560" height="315" src="https://www.youtube.com/embed/OtCNuAs-0rw?si=aCFD5udPqj_NkJ2H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>-->
 
 <h2>
  Summary
